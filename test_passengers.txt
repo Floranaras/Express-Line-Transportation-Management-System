@@ -1,0 +1,41 @@
+AE101
+DLSU Manila Campus - South Gate Driveway
+John Doe
+12345678
+1
+Mamplasan Toll Exit
+
+AE102
+DLSU Manila Campus - South Gate Driveway
+Jane Smith
+87654321
+2
+Laguna Blvd. Guard House (across Paseo PHOENIX Gasoline Station)
+
+AE103
+DLSU Manila Campus - South Gate Driveway
+Bob Johnson
+11223344
+3
+Phase 5, San Jose Village
+
+AE151
+DLSU Laguna Campus - MRR Building - East Canopy
+Alice Brown
+44332211
+1
+Petron Gasoline Station along Gil Puyat Avenue
+
+AE152
+DLSU Laguna Campus - MRR Building - East Canopy
+Charlie Wilson
+55667788
+4
+Gate 4: Gokongwei Gate
+
+AE155
+DLSU Laguna Campus - MRR Building - East Canopy
+Diana Garcia
+99887766
+2
+Gate 2: North Gate (HSSH)

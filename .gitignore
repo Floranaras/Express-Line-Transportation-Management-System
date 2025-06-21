@@ -1,40 +1,18 @@
-# Prerequisites
-*.d
+# Express Transportation Management System - Git Ignore File
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
+# Compiled binaries and executables
+express_system
+arrows_express
 *.exe
 *.out
 *.app
-*.i*86
-*.x86_64
-*.hex
+
+# Object files and libraries
+*.o
+*.a
+*.so
+*.lib
+*.dll
 
 # Debug files
 *.dSYM/
@@ -42,11 +20,64 @@
 *.idb
 *.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Generated trip files (daily operation files)
+Trip-*.txt
+
+# Test output files
+test*_output.txt
+*_output.txt
+
+# Debug and temporary test files
+debug_*.txt
+temp_*.txt
+
+# Core dumps and crash reports
+core
+core.*
+*.core
+vgcore.*
+
+# VS Code workspace files
+.vscode/
+*.code-workspace
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Valgrind output
+valgrind_output.txt
+*.valgrind
+
+# Temporary compilation files
+compilation_errors.txt
+
+# Archive files (unless intentionally versioned)
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Documentation generation output
+docs/html/
+docs/latex/
